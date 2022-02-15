@@ -32,7 +32,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 # PROGRAM :
-
+```
 ## Index.html:
 <!doctype html>
 <html lang="en">
@@ -217,12 +217,12 @@ font-size: large;
         <Cuboid-Volume class="formelement"></Cuboid-Volume>
     </div>
     <div class="footer">
-        Developed by Vishranthi A
+        Developed by Sithi hajara I
     </div>
     </div>
 
 </body>
-
+```
 
 ## OUTPUT:
 ![ZZ1](https://user-images.githubusercontent.com/94219582/154132685-b5c09793-6a19-44f1-b0c9-971409a91f01.PNG)
