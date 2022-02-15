@@ -223,7 +223,6 @@ font-size: large;
 
 </body>
 ```
-
 ## OUTPUT:
 ![ZZ1](https://user-images.githubusercontent.com/94219582/154132685-b5c09793-6a19-44f1-b0c9-971409a91f01.PNG)
 ![ZZ2](https://user-images.githubusercontent.com/94219582/154132712-c3fa5141-2b60-418a-986c-7fc4939031e7.PNG)
